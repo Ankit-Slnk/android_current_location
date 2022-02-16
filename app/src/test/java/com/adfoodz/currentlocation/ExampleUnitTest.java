@@ -1,4 +1,4 @@
-package com.adfoodz.currentlocation;
+package com.ankit.currentlocation;
 
 import org.junit.Test;
 
